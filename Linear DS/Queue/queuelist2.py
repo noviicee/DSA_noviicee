@@ -19,12 +19,12 @@ class queue():
 		#self.display()
 	"""
 	>>> q.enqueue(1)
-    1 --->
-    >>> q.enqueue(11)
-    1 --->11 --->
-    >>> q.enqueue(10)
-    1 --->11 --->10
-    """
+	    1 --->
+	>>> q.enqueue(11)
+	    1 --->11 --->
+	>>> q.enqueue(10)
+	    1 --->11 --->10
+	"""
 
 
 	def dequeue(self):
