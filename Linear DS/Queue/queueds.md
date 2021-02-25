@@ -1,7 +1,7 @@
 # Queue
 *******
 
-Queue is a [Linear Data Structutre](#) where the elements are inserted from one side and are removed from the other side.
+Queue is a [Linear Data Structutre](https://github.com/noviicee/DSA_noviicee/tree/branch2/Linear%20DS/Linked%20List) where the elements are inserted from one side and are removed from the other side.
 
 The queue is an abstract datatype (called as 'interface' in [Java](#))
 
@@ -55,7 +55,7 @@ def isFull():
 	return size==max_size
 ```
 
-;where size is the current size of the queue, and max_size is the size fixed for the queue.
+>where size is the current size of the queue, and max_size is the size fixed for the queue.
 
 The function will return a boolean value.
 
