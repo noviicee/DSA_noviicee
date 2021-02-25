@@ -1,7 +1,7 @@
 # Queue
 *******
 
-Queue is a [Linear Data Structutre](https://github.com/noviicee/DSA_noviicee/tree/branch2/Linear%20DS/Linked%20List) where the elements are inserted from one side and are removed from the other side.
+Queue is a [Linear Data Structutre](https://github.com/noviicee/DSA_noviicee/tree/main/Linear%20DS) where the elements are inserted from one side and are removed from the other side.
 
 The queue is an abstract datatype (called as 'interface' in [Java](#))
 
