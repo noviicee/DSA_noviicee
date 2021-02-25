@@ -1,4 +1,4 @@
-#Queue
+# Queue
 *******
 
 Queue is a [Linear Data Structutre](#) where the elements are inserted from one side and are removed from the other side.
@@ -9,7 +9,7 @@ The queue is an abstract datatype (called as 'interface' in [Java](#))
 ![basic structure of a queue](https://www.etutorialspoint.com/images/ds/doubly-ended_queue.png)
 
 
-* A queue can basically be said t be opene from both the ends
+* A queue can basically be said to be opened from both the ends.
    * This is the reason why insertion and removal is done at different ends of a queue.
 
    * The end at which elememts are added are called as **rear/back/tail**
@@ -18,10 +18,10 @@ The queue is an abstract datatype (called as 'interface' in [Java](#))
 * Queue follows FIFO or LILO methodology
    * *FIFO: First In First Out*
    * *LILO: Last In Last Out*
-   * This means that the elements inserted first will leave the queue first,and the elements inserted last will leave the queue last. (It is very similar to a  rael queue)
+   
+   * This means that the elements inserted first will leave the queue first,and the elements inserted last will leave the queue last. (It is very similar to a  real queue)
 
-##Basic Operations of a simple Queue data structure:
-----------------------------------------------------
+## Basic Operations of a simple Queue data structure:
 
 -> enqueue:
 -----------
@@ -65,8 +65,7 @@ The function will return a boolean value.
 This method is very similar to the isFull() method. It can be used to check if the queue is empty or not.
 
 
-##Applications of the Queue data structure:
--------------------------------------------
+## Applications of the Queue data structure:
 
 * When an appplication is shared with several consumers(threads), we store them in a queue.
 
@@ -86,22 +85,22 @@ This method is very similar to the isFull() method. It can be used to check if t
    Also, the tasks follow FIFO order priority-wise.
 
 
-##Implementation of Queue Abstract Data Type:
-----------------------------------------------
+## Implementation of Queue Abstract Data Type:
 
 Queue can also be implemented with dynamic arrays, as well as with Linked Lists.
 
 1. By using [Array](#) (or List in python)
+   * [Methd-1](https://github.com/noviicee/DSA_noviicee/blob/branch2/Queue/queuelist1.py)
+   * [Methd-2](https://github.com/noviicee/DSA_noviicee/blob/branch2/Queue/queuelist2.py)
 
 2. By using [Linked Lists](#)
 
-3. By using inbuilt modules
+3. By using [inbuilt modules](#)
 
 4. From [Stacks](#)
 
 
-##Complexity:
--------------
+## Complexity:
 
 1. Enqueue: O(1)
 2. Dequeue: O(1)
