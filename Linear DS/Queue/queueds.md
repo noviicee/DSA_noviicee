@@ -90,8 +90,8 @@ This method is very similar to the isFull() method. It can be used to check if t
 Queue can also be implemented with dynamic arrays, as well as with Linked Lists.
 
 1. By using Array (or List in python)
-   * [Methd-1](https://github.com/noviicee/DSA_noviicee/blob/branch2/Queue/queuelist1.py)
-   * [Methd-2](https://github.com/noviicee/DSA_noviicee/blob/branch2/Queue/queuelist2.py)
+   * [Methd-1](https://github.com/noviicee/DSA_noviicee/blob/main/Linear%20DS/Queue/queuelist1.py)
+   * [Methd-2](https://github.com/noviicee/DSA_noviicee/blob/main/Linear%20DS/Queue/queuelist2.py)
 
 2. By using [Linked Lists](#)
 
