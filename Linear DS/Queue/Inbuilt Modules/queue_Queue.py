@@ -32,6 +32,9 @@ blocks and waits until an element is available
 """
 To prevent from such conditions we use get_nowait()
 """
+if __name__ == "__main__":
+    import doctest
+    doctest.testmod()
 
 
 
