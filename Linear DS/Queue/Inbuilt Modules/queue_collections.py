@@ -9,7 +9,7 @@ To implement a queue, we must follow FIFO/LILO order.
 Since here we are able to append as well as remove elemenys from both the sides of the queue, we can use two methods-
 (by default, we consider that append takes place from the right side)
 1. append() and popleft()
-2.apprndleft() and pop()
+2.appendleft() and pop()
 """
 
 #Method-1
