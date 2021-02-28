@@ -52,7 +52,7 @@ The `isFull()` method is applicable only if we specify the size of the queue bef
 
 ```Python
 def isFull():
-	return size==max_size
+   return size==max_size
 ```
 
 >where size is the current size of the queue, and max_size is the size fixed for the queue.
@@ -95,7 +95,9 @@ Queue can also be implemented with dynamic arrays, as well as with Linked Lists.
 
 2. By using [Linked Lists](#)
 
-3. By using [inbuilt modules](#)
+3. By using [inbuilt modules](https://github.com/noviicee/DSA_noviicee/tree/main/Linear%20DS/Queue/Inbuilt%20Modules)
+   * [collections](https://github.com/noviicee/DSA_noviicee/blob/main/Linear%20DS/Queue/Inbuilt%20Modules/queue_collections.py)
+   * [Queue](https://github.com/noviicee/DSA_noviicee/blob/main/Linear%20DS/Queue/Inbuilt%20Modules/queue_Queue.py)
 
 4. From [Stacks](#)
 
