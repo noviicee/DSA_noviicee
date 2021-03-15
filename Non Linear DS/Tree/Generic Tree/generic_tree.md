@@ -8,7 +8,7 @@ Generic trees are a collection of nodes where each node is a data structure that
 Basically, they are more like the Binary Tress and the BST, But the difference is that in case of Binary Tre, and BST, we knew that the number of children will be two-left child and right chiild.
 But in the case of **Generic Trees**, we do not know how many children a node will have. It can have 0, 1, 2, 3,...any number of children.
 
-Unlike the [linked list](#), each node of the generic tree stores the address of multiple nodes. THhs is because we clearly don't know the number of chuildren a node will have. Every node stores address of its children and the very first node’s address will be stored in a separate pointer called root.
+Unlike the [linked list](DSA_noviicee\Linear DS), each node of the generic tree stores the address of multiple nodes. THhs is because we clearly don't know the number of chuildren a node will have. Every node stores address of its children and the very first node’s address will be stored in a separate pointer called root.
 
 During Implementation-
 <br/>
