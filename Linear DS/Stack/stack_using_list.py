@@ -65,3 +65,4 @@ if __name__=="__main__":
 	st1.display()
 	st1.peek()
 	st1.isEmpty()
+	
