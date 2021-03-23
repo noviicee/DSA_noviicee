@@ -4,5 +4,3 @@ This repository contains implementation and examples of various Data-Structures 
 
 
 >Language: Python
-
->Made with ❤ by me.
